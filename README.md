@@ -20,4 +20,4 @@
     
 - To install all the dependencies in the [requirements.txt], use command `pip install -r requirements.txt`
 `
-All the results will be displayed on the terminal.
+- All the results will be displayed on the terminal.
